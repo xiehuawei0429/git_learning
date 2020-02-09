@@ -2,4 +2,8 @@ hello,world
 ----extend bbbbb----
 ----tttttttt--------
 ----t1t1t1t2t3------
+<<<<<<< Updated upstream
 <----8888888888888888>
+=======
+<----aaaaaaaa------->
+>>>>>>> Stashed changes
